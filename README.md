@@ -10,6 +10,7 @@ THE ŌSHŌ FOUNDATION
 - [王将媒体库](./OuShouMedia)
 - [老仏爺のお茶の間](./Roufutsuya)
 - [文物修复局](./BlackBorad)
+- [王将乐课堂](./RecClass)
 
 
 ### Support or Contact
