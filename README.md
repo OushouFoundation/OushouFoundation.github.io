@@ -11,7 +11,7 @@ THE ŌSHŌ FOUNDATION
 - [老仏爺のお茶の間](./Roufutsuya)
 - [文物修复局](./BlackBorad)
 - [王将乐课堂](./RecClass)
-
+- [868690研究中心](./868690)
 
 ### Support or Contact
 
