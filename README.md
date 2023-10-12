@@ -1,7 +1,8 @@
 ## Welcome to the Oushou Foundation
 
 THE ŌSHŌ FOUNDATION
-ザ・王将フォンデイション
+ザ・王将フォンディション
+Fondation Ôshô
 
 ### 基本业务
 
