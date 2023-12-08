@@ -22,3 +22,6 @@ THE ŌSHŌ FOUNDATION 即将震撼推出 La Galerie Ôshô，整合原王将乐�
 ### Support or Contact
 
 PLEASE ADD AN ISSUE.
+
+
+[萌ICP备20230571号](https://icp.gov.moe/?keyword=20230571)
